@@ -1,0 +1,59 @@
+body{
+background-color: purple;   
+
+}
+
+
+.body{
+    display: flex;
+}
+
+
+.TD{
+    color: white;
+    font-size: 1.5rem;
+
+}
+
+
+.Jakes{
+    position: relative;
+    left: 5rem;
+    top:5rem ;
+
+}
+    
+
+
+.son{
+    color: white;
+    padding: 10rem 0 0 16rem;
+
+}
+
+.son button{
+background-color: purple;
+color: white;
+width: 5rem;
+border-radius: 2rem;
+}
+
+
+
+nav{
+display: flex;
+justify-content: end;
+}
+
+nav ul{
+list-style-type: none;
+}
+
+nav ul li{
+
+}
+
+nav ul li button{
+text-decoration:none ;
+border-radius: 2rem;
+}
